@@ -23,10 +23,6 @@ frontend with react and backend is laravel used for this project.this is most su
 - React Context API
 - Axios
 
-## About Source
-
-CodeHolic - https://www.youtube.com/watch?v=qJq9ZMB2Was&t=9484s
-
 ### Setup
 
 - $git clone
